@@ -12,6 +12,7 @@ def add_id(tree, index):
         r = tree
     return r
 
-t = ('a', ('b'), ('c', ('d'), ('e')))
-print(t)
-print(add_id(t, 0))
+if __name__ == '__main__':
+    t = ('a', ('b'), ('c', ('d'), ('e')))
+    print(t)
+    print(add_id(t, 0))
