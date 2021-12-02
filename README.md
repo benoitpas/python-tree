@@ -1,5 +1,8 @@
 python-tree
 -----------
+
+[![Build Status](https://travis-ci.com/benoitpas/python-tree.svg?branch=main)](https://app.travis-ci.com/benoitpas/python-tree)
+
 A simple program to help me prepare a project structure to use python for the advent of code 2021.
 
 The implemenation is very similar to the [clojure](https://github.com/benoitpas/clojure-tree) one where I used a list to store the tree.
